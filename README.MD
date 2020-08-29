@@ -1,6 +1,6 @@
 ## CURSO DE GULP JS
 
-###### O que é gulp?
+#### O que é gulp?
 
 É um conjunto de ferramentas que ajuda você a automatizar tarefas demoradas em seu fluxo de trabalho de desenvolvimento.
 
@@ -15,4 +15,10 @@ Use os módulos do NPM para fazer o que quiser, com mais de 2000 plugins para tr
 #### Simples
 
 Ao fornecer apenas uma superfície mínima da API, o Gulp é fácil de aprender e simples de usar.
+
+#### NodeJs
+
+É necessário ter instalado o NodeJs para que o Gulp funcione.
+
+
 
