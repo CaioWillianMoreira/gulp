@@ -37,3 +37,12 @@ No terminal digite o comando
 
 #### package.json
 Este arquivo é responsável por criar um registro de todas as dependências do projeto.
+
+#### Criando o arquivo gulp
+
+Insira o comando para criar o arquivo físico
+__cat > gulpfile.js__
+
+
+
+
