@@ -26,4 +26,5 @@ No terminal digite o comando
 - Node -v
 - NPM -v
 
-
+#### Para instalar o Global
+- npm i gulp -g
