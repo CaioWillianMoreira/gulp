@@ -31,3 +31,6 @@ No terminal digite o comando
 
 #### Criando o package.json
 - npm init -y
+
+#### Instalando o Gulp localmente
+- npm i gulp --save-dev

@@ -1,5 +1,5 @@
 {
-  "name": "gulp",
+  "name": "curso-gulp",
   "version": "1.0.0",
   "description": "#### O que é gulp? Gulp.js é uma ferramenta de automação de tarefas em JavaScript ele te ajuda com: minificação e compilação de arquivos .css, .js, etc... que muitas vezes são repetitivas no nosso fluxo de trabalho.",
   "main": ".eslintrc.js",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CaioWillianMoreira/gulp/issues"
   },
-  "homepage": "https://github.com/CaioWillianMoreira/gulp#readme"
+  "homepage": "https://github.com/CaioWillianMoreira/gulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
