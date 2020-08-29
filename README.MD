@@ -21,4 +21,9 @@ __Crie um diretório__
 __Entre dentro do diretório__
 - cd .. gulp
 
+#### Testando o Node eo NPM.
+No terminal digite o comando
+- Node -v
+- NPM -v
+
 
