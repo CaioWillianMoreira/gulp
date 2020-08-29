@@ -28,3 +28,6 @@ No terminal digite o comando
 
 #### Para instalar o Global
 - npm i gulp -g
+
+#### Criando o package.json
+- npm init -y
