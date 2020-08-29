@@ -34,3 +34,6 @@ No terminal digite o comando
 
 #### Instalando o Gulp localmente
 - npm i gulp --save-dev
+
+#### package.json
+Este arquivo é responsável por criar um registro de todas as dependências do projeto.
