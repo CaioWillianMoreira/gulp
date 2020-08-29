@@ -39,10 +39,11 @@ No terminal digite o comando
 Este arquivo é responsável por criar um registro de todas as dependências do projeto.
 
 #### Criando o arquivo gulp
-
 Insira o comando para criar o arquivo físico
 __cat > gulpfile.js__
 
+#### Segunda parte
+Na segunda parte do curso sará necessário baixar e congigurar alguns programas para nosso workflow
 
-
-
+- Editor de textos
+- Plugins NPM
