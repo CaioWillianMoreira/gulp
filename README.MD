@@ -50,3 +50,9 @@ Na segunda parte do curso sará necessário baixar e congigurar alguns programas
 
 #### Instalando dependências do gulp
 gulp-sass, gulp-htmlmin, gulp-notify, del.
+
+#### Desenvolvimento e produção
+Criação dos diretórios
+__src__
+__dist__
+
