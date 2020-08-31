@@ -47,3 +47,6 @@ Na segunda parte do curso sará necessário baixar e congigurar alguns programas
 
 - Editor de textos
 - Plugins NPM
+
+#### Instalando dependências do gulp
+gulp-sass, gulp-htmlmin, gulp-notify, del.
