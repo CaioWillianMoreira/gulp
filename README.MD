@@ -1,7 +1,7 @@
 ## CURSO DE GULP JS
 
 #### O que é gulp?
-Gulp.js é uma ferramenta de automação de tarefas em JavaScript ele te ajuda com: minificação e compilação de arquivos .css, .js, etc... que muitas vezes são repetitivas no nosso fluxo de trabalho.
+Gulp.js é uma ferramenta de automação de tarefas em JavaScript, ele te ajuda com minificação e compilação de arquivos que muitas vezes são repetitivas no nosso fluxo de trabalho.
 
 #### Plataforma Agnóstica
 As integrações são incorporadas em todas as principais IDEs, ele pode ser usado com PHP, .NET, Java e outras plataformas.
