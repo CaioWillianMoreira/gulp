@@ -56,3 +56,13 @@ Criação dos diretórios
 __src__
 __dist__
 
+### Tarefas do gulp
+- task() -> Define tarefas no gulp;
+
+- src() -> Arquivos que entram no fluxo de tarefas para serem tratados ou manipulados;
+
+- dest() -> Destino dos arquivos que ja passaram pelo fluxo de tarefas;
+
+- watch() -> Assite/Observa os arquivos e faz alguma tarefa quando esses são alterados;
+
+- pipe() -> Concatena tarefas no gulp;
