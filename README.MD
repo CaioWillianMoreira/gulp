@@ -54,7 +54,7 @@ gulp-sass, gulp-htmlmin, gulp-notify, del.
 #### Desenvolvimento e produção
 Criação dos diretórios
 __src__
-__dist__
+__dest__
 
 ### Tarefas do gulp
 - task() -> Define tarefas no gulp;
