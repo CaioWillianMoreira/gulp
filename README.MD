@@ -66,3 +66,7 @@ __dist__
 - watch() -> Assite/Observa os arquivos e faz alguma tarefa quando esses são alterados;
 
 - pipe() -> Concatena tarefas no gulp;
+
+#### Para executar o gulp
+__Gulp no da task__
+- Ex: gulp html
