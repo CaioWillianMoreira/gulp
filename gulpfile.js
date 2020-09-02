@@ -16,6 +16,7 @@ gulp.task('html', function() {
   .pipe(gulp.dest('./dest/'));
 });
 
-gulp.task('default', ['html'], function() {
+gulp.task('default', ['html', 'sass'], function() {
   gulp.watch('./src/index.html', ['html']);
+  gulp.watch('./src/scss/style.scss', ['sass']);
 });
