@@ -1,5 +1,13 @@
 var gulp = require('gulp');
 var html = require('gulp-htmlmin');
+var sass = require('gulp-sass');
+
+// sass
+gulp.task('sass', function() {
+  return gulp.src('./src/scss/style.scss')
+  .pipe(sass({outputStyle: 'compressed'}))
+  .pipe(gulp.dest('./css/'));
+});
 
 // html
 gulp.task('html', function() {
