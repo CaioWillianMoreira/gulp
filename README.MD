@@ -70,3 +70,6 @@ __dest__
 #### Para executar o gulp
 __Gulp no da task__
 - Ex: gulp html
+
+#### Browser sync
+- npm i browser-sync --save-dev
